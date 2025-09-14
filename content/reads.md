@@ -13,6 +13,8 @@ It is a skill that I did not develop when I was younger, as the poorly disciplin
 
 I am currently interested in reading Japanese literature, mainly for language learning purposes.
 
+I am semi-active in the [JSS Book Club](https://www.instagram.com/nusjapaneselit/)---a subclub under the [NUS Japanese Studies Society](https://jss.sg/).
+
 ## Currently Reading
 - 日本随筆家協会編 --- 『心に残る話』
 - 有川浩 --- 『旅猫リポート』
