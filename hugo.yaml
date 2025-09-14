@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://kangzhe.xyz"
 title: kangzhe.xyz
 pagination.pagerSize: 5
 theme: PaperMod
@@ -75,7 +75,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "kangzhe.xyz"
-    Content: Hello, I am Kang Zhe. Welcome to my website. 
+    Content: "Hello, I am Kang Zhe. Welcome to my website.\n\n Third year undergraduate student in NUS Mathematics (pure). Interested in logic.\n\n Currently learning Japanese."
 
   socialIcons:
     - name: stackoverflow
@@ -96,10 +96,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+#  editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -118,10 +118,18 @@ menu:
       name: posts
       url: /posts/
       weight: 10
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 22
+    - identifier: about
+      name: about
+      url: /about
+      weight: 20
+    - identifier: reads
+      name: reads
+      url: /reads
+      weight: 30
+    - identifier: friends
+      name: friends
+      url: /friends
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

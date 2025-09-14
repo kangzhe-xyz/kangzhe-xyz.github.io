@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Friends on kangzhe.xyz</title>
+    <link>http://localhost:1313/friends/</link>
+    <description>Recent content in Friends on kangzhe.xyz</description>
+    <image>
+      <title>kangzhe.xyz</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Sep 2025 04:41:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/friends/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Friends</title>
+      <link>http://localhost:1313/friends/friends/</link>
+      <pubDate>Mon, 15 Sep 2025 04:41:45 +0800</pubDate>
+      <guid>http://localhost:1313/friends/friends/</guid>
+      <description>&lt;p&gt;Here are some of my cool and smart friends and their websites, in no particular order.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://saddle196883.github.io/personalpage/&#34;&gt;Timothy Wan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://greysome.github.io/&#34;&gt;Way Yan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://boonsuan.github.io/&#34;&gt;Ho Boon Suan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tfmsadhith.github.io/&#34;&gt;Sanjay Adhith&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

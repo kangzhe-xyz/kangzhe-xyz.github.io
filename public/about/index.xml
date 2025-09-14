@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on kangzhe.xyz</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on kangzhe.xyz</description>
+    <image>
+      <title>kangzhe.xyz</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Sep 2025 04:27:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 15 Sep 2025 04:27:04 +0800</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;p&gt;Hello, my name is Kang Zhe.
+Welcome to my website.&lt;/p&gt;
+&lt;p&gt;I am a third year undergraduate student in the National University of Singapore studying pure mathematics.
+I am interested in logic.&lt;/p&gt;
+&lt;p&gt;My other projects include learning Japanese, and attempting to read The Art of Computer Programming in Japanese.
+Some of my friends have introduced me to this book, and I thought it would be a good idea to try doing it in Japanese.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

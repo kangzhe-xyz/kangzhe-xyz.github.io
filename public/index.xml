@@ -11,8 +11,51 @@
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Sep 2025 02:25:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 05:00:55 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reads</title>
+      <link>http://localhost:1313/reads/</link>
+      <pubDate>Mon, 15 Sep 2025 05:00:55 +0800</pubDate>
+      <guid>http://localhost:1313/reads/</guid>
+      <description>&lt;p&gt;I suck at reading, but I would love to love it and get better at it.
+It is a skill that I did not develop when I was younger, as the poorly disciplined child I was&amp;mdash;but I am looking forward to read more to understand the world better.&lt;/p&gt;
+&lt;p&gt;I am currently interested in reading Japanese literature, mainly for language learning purposes.&lt;/p&gt;
+&lt;h2 id=&#34;currently-reading&#34;&gt;Currently Reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日本随筆家協会編 &amp;mdash; 『心に残る話』&lt;/li&gt;
+&lt;li&gt;有川浩 &amp;mdash; 『旅猫リポート』&lt;/li&gt;
+&lt;li&gt;Yuri Matiyasevich &amp;mdash; &lt;em&gt;Hilbert&amp;rsquo;s 10th Problem&lt;/em&gt; (this is for one of my classes)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;books-im-working-through&#34;&gt;Books I&amp;rsquo;m Working Through&lt;/h2&gt;
+&lt;p&gt;I consider this a separate section, since reading a math book with exercises is quite different from reading a novel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Friends</title>
+      <link>http://localhost:1313/friends/</link>
+      <pubDate>Mon, 15 Sep 2025 04:41:45 +0800</pubDate>
+      <guid>http://localhost:1313/friends/</guid>
+      <description>&lt;p&gt;Here are some of my cool and smart friends and their websites, in no particular order.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://saddle196883.github.io/personalpage/&#34;&gt;Timothy Wan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://greysome.github.io/&#34;&gt;Way Yan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://boonsuan.github.io/&#34;&gt;Ho Boon Suan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tfmsadhith.github.io/&#34;&gt;Sanjay Adhith&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://isaacyclai.github.io/&#34;&gt;Isaac Lai&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 15 Sep 2025 04:27:04 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello, my name is Kang Zhe.
+Welcome to my website.&lt;/p&gt;
+&lt;p&gt;I am a third year undergraduate student in the National University of Singapore studying pure mathematics.
+I am interested in logic.&lt;/p&gt;
+&lt;p&gt;My other projects include learning Japanese, and attempting to read &lt;a href=&#34;https://asciidwango.jp/post/122327235600/the-art-of-computer-programming-volume-1&#34;&gt;The Art of Computer Programming in Japanese&lt;/a&gt;.
+Some of my friends have introduced me to this book, and I thought it would be a good idea to try doing it in Japanese.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello</title>
       <link>http://localhost:1313/posts/hello/</link>
