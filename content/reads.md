@@ -9,7 +9,7 @@ hideSummary: true
 hideMeta: true
 ---
 I suck at reading, but I would love to love it and get better at it.
-It is a skill that I did not develop when I was younger, as the poorly disciplined child I was---but I am looking forward to read more to understand the world better.
+It is a skill that I did not develop when I was younger, but I am looking forward to read more to understand the world better.
 
 I am currently interested in reading Japanese literature, mainly for language learning purposes.
 
