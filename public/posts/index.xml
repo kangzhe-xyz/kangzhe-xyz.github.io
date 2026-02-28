@@ -1,26 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on kangzhe.xyz</title>
     <link>https://kangzhe.xyz/posts/</link>
     <description>Recent content in Posts on kangzhe.xyz</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>kangzhe.xyz</title>
+      <url>https://kangzhe.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kangzhe.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Feb 2026 10:45:54 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 05:16:36 +0800</lastBuildDate>
     <atom:link href="https://kangzhe.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Dummit and Futon</title>
+      <link>https://kangzhe.xyz/posts/dummitfuton-update1/</link>
+      <pubDate>Sun, 01 Mar 2026 05:16:36 +0800</pubDate>
+      <guid>https://kangzhe.xyz/posts/dummitfuton-update1/</guid>
+      <description>&lt;p&gt;I have been working on giving my hand at translating Dummit and Foote&amp;rsquo;s &lt;em&gt;Abstract Algebra&lt;/em&gt; (Third Edition) into Japanese, though rather irregularly.
+In particular, I am trying to translate the second part of the book: on rings and modules.&lt;/p&gt;
+&lt;p&gt;I have named this project &lt;em&gt;Project Dummit and Futon&lt;/em&gt;, since &amp;ldquo;Foote&amp;rdquo; and &amp;ldquo;futon&amp;rdquo; sounded pretty close.&lt;/p&gt;
+&lt;p&gt;Some examples I did not pay attention to too closely while studying ring theory during the semester were revisited again (because I was forced to read them).
+None of them were particularly exciting.
+What my focus was for this project is actually learning how to write mathematics in Japanese.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2026シンガポールチャンピオンシップの振り返り</title>
       <link>https://kangzhe.xyz/posts/sgc26-jp/</link>
       <pubDate>Fri, 27 Feb 2026 10:45:54 +0800</pubDate>
       <guid>https://kangzhe.xyz/posts/sgc26-jp/</guid>
-      <description>&lt;p&gt;3年連続シンガポール（キューブ）チャンピオンシップの主催でやってきた。&lt;/p&gt;&#xA;&lt;p&gt;今回&lt;a href=&#34;https://www.worldcubeassociation.org/competitions/SingaporeChampionship2026&#34;&gt;2026年のチャンピオンシップ&lt;/a&gt;も大成功でよかったと思う。&lt;/p&gt;&#xA;&lt;p&gt;3日の大会だったがインターンシップをやっているため1日目のPBQの日に行かなかったが、2日目と3日目に行って主催の身分に就いた。&lt;/p&gt;&#xA;&lt;p&gt;2日目の午前の部分にスケジュールの厳しすぎたので20分ほど遅くなってきたが、午後と夜の部分はスケジュールに間に合ってよかったと思う。もちろん、スタッフと大会参加者の協力のおかげでスムーズの大会ができただろう。それにすごくありがたい。同じように3日目の大会も無事に行われた。&lt;/p&gt;&#xA;&lt;p&gt;その中に1番よかったのはテーブルとイスを移動することだろう。それの家具は大会の前に4階の教室から移動していたものなので返還することは大変じゃないかと思ったので、主催のTroyさんにこれらの家具を大会の場所から移動して、他人の主催者にファイナルのことを預けたらファイナルが行われつつ一緒に移動しようと頼んだ。それと思ったが、ファイナルが始まってから場所を出たとき、家具が意外と見つからなかった。Troyさんにメッセージして、「友達に頼んで全部返還したよ」と返事してびっくりした。4階の教室に見に登ると家具がきちんと整頓されてうれしかった。&lt;/p&gt;&#xA;&lt;p&gt;コロナか後シンガポールのキューブのコミュニティがだんだん進捗し、この趣味はもっと広がるようになっている。最初の2024年の主催の際と比べると、経験値を得てコミュニティもジャッジやスクランブルのことを積極的に手伝ってしてくれて、心底からありがたいと思う。&lt;/p&gt;&#xA;&lt;p&gt;こういうコミュニティがなければシンガポールのキューブの趣味はどんな形になるだろう。&lt;/p&gt;&#xA;&lt;p&gt;これまでもWCA代表たちのYichenさんとCarmenさんのお手伝いのおかげでシンガポールの大会の効率も上がるようになってきた。そしてJunwenさんがマレーシアからお越しいただいてWCA代表の身分で出てくれて本当にありがたいと思う。代表の方々に感謝してたまらない。&lt;/p&gt;&#xA;&lt;p&gt;いまの私はキューブのことあまり練習しなくてPRにも目指していないし、キューブから離れるわけだろう。けれども、シンガポールにはこの趣味の広さを見て、こういう大会を行わってたくさんの参加者が参加することができて、これは光栄の至りじゃなければ何だろう。&lt;/p&gt;&#xA;&lt;p&gt;忙しくて疲れたようになったが、十分有意義なことだと思い、また主催のことをやりたいと思う。また2027のシンガポールチャンピオンシップでよろしく。&lt;/p&gt;</description>
+      <description>&lt;p&gt;3年連続シンガポール（キューブ）チャンピオンシップの主催でやってきた。&lt;/p&gt;
+&lt;p&gt;今回&lt;a href=&#34;https://www.worldcubeassociation.org/competitions/SingaporeChampionship2026&#34;&gt;2026年のチャンピオンシップ&lt;/a&gt;も大成功でよかったと思う。&lt;/p&gt;
+&lt;p&gt;3日の大会だったがインターンシップをやっているため1日目のPBQの日に行かなかったが、2日目と3日目に行って主催の身分に就いた。&lt;/p&gt;
+&lt;p&gt;2日目の午前の部分にスケジュールの厳しすぎたので20分ほど遅くなってきたが、午後と夜の部分はスケジュールに間に合ってよかったと思う。もちろん、スタッフと大会参加者の協力のおかげでスムーズの大会ができただろう。それにすごくありがたい。同じように3日目の大会も無事に行われた。&lt;/p&gt;
+&lt;p&gt;その中に1番よかったのはテーブルとイスを移動することだろう。それの家具は大会の前に4階の教室から移動していたものなので返還することは大変じゃないかと思ったので、主催のTroyさんにこれらの家具を大会の場所から移動して、他人の主催者にファイナルのことを預けたらファイナルが行われつつ一緒に移動しようと頼んだ。それと思ったが、ファイナルが始まってから場所を出たとき、家具が意外と見つからなかった。Troyさんにメッセージして、「友達に頼んで全部返還したよ」と返事してびっくりした。4階の教室に見に登ると家具がきちんと整頓されてうれしかった。&lt;/p&gt;
+&lt;p&gt;コロナか後シンガポールのキューブのコミュニティがだんだん進捗し、この趣味はもっと広がるようになっている。最初の2024年の主催の際と比べると、経験値を得てコミュニティもジャッジやスクランブルのことを積極的に手伝ってしてくれて、心底からありがたいと思う。&lt;/p&gt;
+&lt;p&gt;こういうコミュニティがなければシンガポールのキューブの趣味はどんな形になるだろう。&lt;/p&gt;
+&lt;p&gt;これまでもWCA代表たちのYichenさんとCarmenさんのお手伝いのおかげでシンガポールの大会の効率も上がるようになってきた。そしてJunwenさんがマレーシアからお越しいただいてWCA代表の身分で出てくれて本当にありがたいと思う。代表の方々に感謝してたまらない。&lt;/p&gt;
+&lt;p&gt;いまの私はキューブのことあまり練習しなくてPRにも目指していないし、キューブから離れるわけだろう。けれども、シンガポールにはこの趣味の広さを見て、こういう大会を行わってたくさんの参加者が参加することができて、これは光栄の至りじゃなければ何だろう。&lt;/p&gt;
+&lt;p&gt;忙しくて疲れたようになったが、十分有意義なことだと思い、また主催のことをやりたいと思う。また2027のシンガポールチャンピオンシップでよろしく。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello</title>
       <link>https://kangzhe.xyz/posts/hello/</link>
       <pubDate>Mon, 15 Sep 2025 02:25:23 +0800</pubDate>
       <guid>https://kangzhe.xyz/posts/hello/</guid>
-      <description>&lt;p&gt;Hello, this is a test.&#xA;Welcome to my website.&lt;/p&gt;&#xA;&lt;p&gt;This is a revival of &lt;a href=&#34;https://kangzhe.xyz&#34;&gt;kangzhe.xyz&lt;/a&gt;.&#xA;My friends have been asking me to bring it back.&lt;/p&gt;&#xA;&lt;p&gt;I hope with this blogs feature I can also make myself write more about whatever it is that I want to write about (though figuring out all this Hugo stuff is still a pain).&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-header-big-text&#34;&gt;A header, big text.&lt;/h2&gt;&#xA;&lt;p&gt;And here&amp;rsquo;s some math, $1+1=3$, and&lt;/p&gt;&#xA;&lt;p&gt;$$(\forall \epsilon &amp;gt; 0) (\exists \delta &amp;gt; 0) [|x - c| &amp;lt; \delta \implies |f(x) - f(c)| &amp;lt; \epsilon].$$&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello, this is a test.
+Welcome to my website.&lt;/p&gt;
+&lt;p&gt;This is a revival of &lt;a href=&#34;https://kangzhe.xyz&#34;&gt;kangzhe.xyz&lt;/a&gt;.
+My friends have been asking me to bring it back.&lt;/p&gt;
+&lt;p&gt;I hope with this blogs feature I can also make myself write more about whatever it is that I want to write about (though figuring out all this Hugo stuff is still a pain).&lt;/p&gt;
+&lt;h2 id=&#34;a-header-big-text&#34;&gt;A header, big text.&lt;/h2&gt;
+&lt;p&gt;And here&amp;rsquo;s some math, $1+1=3$, and&lt;/p&gt;
+&lt;p&gt;$$(\forall \epsilon &amp;gt; 0) (\exists \delta &amp;gt; 0) [|x - c| &amp;lt; \delta \implies |f(x) - f(c)| &amp;lt; \epsilon].$$&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

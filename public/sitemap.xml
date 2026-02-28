@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kangzhe.xyz/posts/sgc26-jp/</loc>
-    <lastmod>2026-02-27T10:45:54+08:00</lastmod>
-  </url><url>
     <loc>https://kangzhe.xyz/</loc>
-    <lastmod>2026-02-27T10:45:54+08:00</lastmod>
+    <lastmod>2026-03-01T05:16:36+08:00</lastmod>
   </url><url>
     <loc>https://kangzhe.xyz/posts/</loc>
+    <lastmod>2026-03-01T05:16:36+08:00</lastmod>
+  </url><url>
+    <loc>https://kangzhe.xyz/posts/dummitfuton-update1/</loc>
+    <lastmod>2026-03-01T05:16:36+08:00</lastmod>
+  </url><url>
+    <loc>https://kangzhe.xyz/posts/sgc26-jp/</loc>
     <lastmod>2026-02-27T10:45:54+08:00</lastmod>
   </url><url>
     <loc>https://kangzhe.xyz/reads/</loc>

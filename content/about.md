@@ -21,16 +21,7 @@ I am fluent in English and Chinese, and currently conversational for Japanese.
 A goal I have for this year is to pass the Japanese Language Proficiency Test N1 Level.
 
 I sometimes also solve [twisty puzzles](https://www.worldcubeassociation.org/persons/2016KANG02).
-You might be able to find me in local competitions in Singapore.
+You might be able to find me in local competitions in Singapore. I mainly act as a competition organiser these days.
 
 I can be contacted at nkz dot u dot nus dot edu.
 Feel free to disturb me.
-
-## Classes I am Taking This Semester
-I am taking the following classes in 25/26 Semester 1:
-1. MA4198 Mathematics Capstone Project (on Hilbert's 10th Problem)
-2. MA3201 Algebra 2
-3. MA3209 Metric and Topological Spaces
-4. LAJ3202 Japanese 6
-
-This is considered a slightly lighter semester for me.
