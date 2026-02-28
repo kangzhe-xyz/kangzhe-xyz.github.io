@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kangzhe.xyz/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-01T05:16:36+08:00</lastmod>
   </url><url>
-    <loc>https://kangzhe.xyz/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-03-01T05:16:36+08:00</lastmod>
   </url><url>
-    <loc>https://kangzhe.xyz/posts/dummitfuton-update1/</loc>
+    <loc>http://localhost:1313/posts/dummitfuton-update1/</loc>
     <lastmod>2026-03-01T05:16:36+08:00</lastmod>
   </url><url>
-    <loc>https://kangzhe.xyz/posts/sgc26-jp/</loc>
+    <loc>http://localhost:1313/posts/sgc26-jp/</loc>
     <lastmod>2026-02-27T10:45:54+08:00</lastmod>
   </url><url>
-    <loc>https://kangzhe.xyz/reads/</loc>
+    <loc>http://localhost:1313/reads/</loc>
     <lastmod>2025-09-15T05:00:55+08:00</lastmod>
   </url><url>
-    <loc>https://kangzhe.xyz/friends/</loc>
+    <loc>http://localhost:1313/friends/</loc>
     <lastmod>2025-09-15T04:41:45+08:00</lastmod>
   </url><url>
-    <loc>https://kangzhe.xyz/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-09-15T04:27:04+08:00</lastmod>
   </url><url>
-    <loc>https://kangzhe.xyz/posts/hello/</loc>
+    <loc>http://localhost:1313/posts/hello/</loc>
     <lastmod>2025-09-15T02:25:23+08:00</lastmod>
   </url><url>
-    <loc>https://kangzhe.xyz/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://kangzhe.xyz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://kangzhe.xyz/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

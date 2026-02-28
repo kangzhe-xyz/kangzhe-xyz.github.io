@@ -17,7 +17,7 @@ Since this is me going in blind into translation, with my best sources being oth
 In Chapter 7.1 Example (6), the book talks about rings of functions. 
 If $X$ is a nonempty set and $A$ is any ring, define the ring of functions  
 $$ 
-R \coloneqq \left\{ f \colon X \to A \mid f \text{ is a function}\right\} 
+R \coloneqq \\{ f \colon X \to A \mid f \text{ is a function}\\} 
 $$
 under the operations of pointwise addition and pointwise multiplication
 $$

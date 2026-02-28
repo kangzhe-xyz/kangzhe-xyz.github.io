@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>kangzhe.xyz</title>
-    <link>https://kangzhe.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on kangzhe.xyz</description>
     <image>
       <title>kangzhe.xyz</title>
-      <url>https://kangzhe.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kangzhe.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Mar 2026 05:16:36 +0800</lastBuildDate>
-    <atom:link href="https://kangzhe.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Dummit and Futon</title>
-      <link>https://kangzhe.xyz/posts/dummitfuton-update1/</link>
+      <link>http://localhost:1313/posts/dummitfuton-update1/</link>
       <pubDate>Sun, 01 Mar 2026 05:16:36 +0800</pubDate>
-      <guid>https://kangzhe.xyz/posts/dummitfuton-update1/</guid>
+      <guid>http://localhost:1313/posts/dummitfuton-update1/</guid>
       <description>&lt;p&gt;I have been working on giving my hand at translating Dummit and Foote&amp;rsquo;s &lt;em&gt;Abstract Algebra&lt;/em&gt; (Third Edition) into Japanese, though rather irregularly.
 In particular, I am trying to translate the second part of the book: on rings and modules.&lt;/p&gt;
 &lt;p&gt;I have named this project &lt;em&gt;Project Dummit and Futon&lt;/em&gt;, since &amp;ldquo;Foote&amp;rdquo; and &amp;ldquo;futon&amp;rdquo; sounded pretty close.&lt;/p&gt;
@@ -27,9 +27,9 @@ What my focus was for this project is actually learning how to write mathematics
     </item>
     <item>
       <title>2026シンガポールチャンピオンシップの振り返り</title>
-      <link>https://kangzhe.xyz/posts/sgc26-jp/</link>
+      <link>http://localhost:1313/posts/sgc26-jp/</link>
       <pubDate>Fri, 27 Feb 2026 10:45:54 +0800</pubDate>
-      <guid>https://kangzhe.xyz/posts/sgc26-jp/</guid>
+      <guid>http://localhost:1313/posts/sgc26-jp/</guid>
       <description>&lt;p&gt;3年連続シンガポール（キューブ）チャンピオンシップの主催でやってきた。&lt;/p&gt;
 &lt;p&gt;今回&lt;a href=&#34;https://www.worldcubeassociation.org/competitions/SingaporeChampionship2026&#34;&gt;2026年のチャンピオンシップ&lt;/a&gt;も大成功でよかったと思う。&lt;/p&gt;
 &lt;p&gt;3日の大会だったがインターンシップをやっているため1日目のPBQの日に行かなかったが、2日目と3日目に行って主催の身分に就いた。&lt;/p&gt;
@@ -43,9 +43,9 @@ What my focus was for this project is actually learning how to write mathematics
     </item>
     <item>
       <title>Reads</title>
-      <link>https://kangzhe.xyz/reads/</link>
+      <link>http://localhost:1313/reads/</link>
       <pubDate>Mon, 15 Sep 2025 05:00:55 +0800</pubDate>
-      <guid>https://kangzhe.xyz/reads/</guid>
+      <guid>http://localhost:1313/reads/</guid>
       <description>&lt;p&gt;I suck at reading, but I would love to love it and get better at it.
 It is a skill that I did not develop when I was younger, but I am looking forward to read more to understand the world better.&lt;/p&gt;
 &lt;p&gt;I am currently interested in reading Japanese literature, mainly for language learning purposes.&lt;/p&gt;
@@ -54,9 +54,9 @@ It is a skill that I did not develop when I was younger, but I am looking forwar
     </item>
     <item>
       <title>Friends</title>
-      <link>https://kangzhe.xyz/friends/</link>
+      <link>http://localhost:1313/friends/</link>
       <pubDate>Mon, 15 Sep 2025 04:41:45 +0800</pubDate>
-      <guid>https://kangzhe.xyz/friends/</guid>
+      <guid>http://localhost:1313/friends/</guid>
       <description>&lt;p&gt;Here are some of my cool and smart friends and their websites, in no particular order.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://saddle196883.github.io/personalpage/&#34;&gt;Timothy Wan&lt;/a&gt;&lt;/li&gt;
@@ -68,9 +68,9 @@ It is a skill that I did not develop when I was younger, but I am looking forwar
     </item>
     <item>
       <title>About Me</title>
-      <link>https://kangzhe.xyz/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 15 Sep 2025 04:27:04 +0800</pubDate>
-      <guid>https://kangzhe.xyz/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Hello, my name is Kang Zhe.
 Welcome to my website.&lt;/p&gt;
 &lt;p&gt;I am a third year undergraduate student in the National University of Singapore studying pure mathematics.
@@ -80,9 +80,9 @@ Some of my friends have introduced me to this book, and I thought it would be a 
     </item>
     <item>
       <title>Hello</title>
-      <link>https://kangzhe.xyz/posts/hello/</link>
+      <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Mon, 15 Sep 2025 02:25:23 +0800</pubDate>
-      <guid>https://kangzhe.xyz/posts/hello/</guid>
+      <guid>http://localhost:1313/posts/hello/</guid>
       <description>&lt;p&gt;Hello, this is a test.
 Welcome to my website.&lt;/p&gt;
 &lt;p&gt;This is a revival of &lt;a href=&#34;https://kangzhe.xyz&#34;&gt;kangzhe.xyz&lt;/a&gt;.
