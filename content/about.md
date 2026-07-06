@@ -23,6 +23,7 @@ I have completed the math-related requirements for my degree, and will no longer
 5. NST2030 Quantum Computation
 
 I might also audit these classes:
+
 6. MA4266 Introduction to Algebraic Topology
 7. MA5266 Optimisation
 

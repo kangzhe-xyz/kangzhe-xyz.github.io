@@ -75,7 +75,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "kangzhe.xyz"
-    Content: "Hello, I am Kang Zhe. Welcome to my website.\n\n Third year undergraduate student in NUS Mathematics (pure). Interested in logic.\n\n Currently learning Japanese."
+    Content: "Hello, I am Kang Zhe. Welcome to my website.\n\n Final year undergraduate student in NUS Mathematics (pure). Interested in logic.\n\n Currently learning Japanese."
 
   socialIcons:
     - name: stackoverflow
