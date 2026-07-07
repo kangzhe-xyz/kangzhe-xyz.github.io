@@ -1,5 +1,5 @@
 baseURL: "https://kangzhe.xyz"
-title: kangzhe.xyz
+title: "Ng Kang Zhe"
 pagination.pagerSize: 5
 theme: PaperMod
 
@@ -17,8 +17,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   math: true
-  title: kangzhe.xyz
-  description: "kangzhe.xyz"
+  title: "Ng Kang Zhe"
+  description: "Ng Kang Zhe"
   keywords: [Blog, Portfolio, PaperMod]
   author: kang zhe
   # author: ["Me", "You"] # multiple authors
@@ -138,8 +138,8 @@ markup:
     # anchorLineNos: true
     # codeFences: true
     # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    lineNos: true
+    style: monokai
     #
 caches:
   images:
