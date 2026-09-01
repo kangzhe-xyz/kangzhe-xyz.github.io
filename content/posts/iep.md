@@ -72,7 +72,7 @@ This makes it $20 - 2k + k$ groups to be arranged around a table, which is equal
 We see that there are ${10 \choose k}$ terms in $\sum_{i_1 < i_2 < \cdots < i_k} P(E_{i_1} \cdots E_{i_k})$. 
 Therefore,
 $$
-\sum_{i_1 < i_2 < \cdots < i_k} P(E_{i_1} \cdots E_{i_k}) = {10 \choose k} \frac{2^k (20 - n - 1)!}{19!}.
+\sum_{i_1 < i_2 < \cdots < i_k} P(E_{i_1} \cdots E_{i_k}) = {10 \choose k} \frac{2^k (20 - k - 1)!}{19!}.
 $$
 Then to answer the question,
 $$
@@ -95,7 +95,7 @@ Writing a simple piece of Python code
 from math import comb, factorial
 
 def summand(k):
-    return ((-1)**k) * comb(10, k) * (2 ** k) * factorial(19 - k) 
+    return ((-1) ** k) * comb(10, k) * (2 ** k) * factorial(19 - k) 
     / factorial(19)
 
 sum = 0
