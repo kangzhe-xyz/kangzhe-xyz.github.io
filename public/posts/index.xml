@@ -2,58 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Ng Kang Zhe</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://kangzhe.xyz/posts/</link>
     <description>Recent content in Posts on Ng Kang Zhe</description>
     <image>
       <title>Ng Kang Zhe</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://kangzhe.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kangzhe.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:25:56 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2026 21:43:58 +0800</lastBuildDate>
+    <atom:link href="https://kangzhe.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inclusion–Exclusion Principle</title>
+      <link>https://kangzhe.xyz/posts/iep/</link>
+      <pubDate>Tue, 01 Sep 2026 21:43:58 +0800</pubDate>
+      <guid>https://kangzhe.xyz/posts/iep/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This is a repost of a note I wrote two years ago on the inclusion&amp;ndash;exclusion principle when I was taking a class on Probability.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The en-dash (–) in the title was AI-generated, because I searched for &amp;ldquo;en-dash&amp;rdquo; and the first thing that popped out was Google&amp;rsquo;s AI overview. I just copied the symbol from its output.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this article, the conjunction (intersection) of events is written as $E_1 \cap E_2 = E_1 E_2$.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>留学の終わりの振り返り</title>
-      <link>http://localhost:1313/posts/ryuugaku-no-owari/</link>
+      <link>https://kangzhe.xyz/posts/ryuugaku-no-owari/</link>
       <pubDate>Sat, 22 Aug 2026 14:25:56 +0800</pubDate>
-      <guid>http://localhost:1313/posts/ryuugaku-no-owari/</guid>
-      <description>&lt;p&gt;いよいよ八月になり、
+      <guid>https://kangzhe.xyz/posts/ryuugaku-no-owari/</guid>
+      <description>&lt;p&gt;いよいよ八月になり、&lt;br&gt;
 私の立教大学での留学も終わりました。&lt;/p&gt;
-&lt;p&gt;日本で沢山の方々に支えていただき、
-この日を無事に迎えることができて、
+&lt;p&gt;日本で沢山の方々に支えていただき、&lt;br&gt;
+この日を無事に迎えることができて、&lt;br&gt;
 本当にありがとうございます。&lt;/p&gt;
-&lt;p&gt;日本語でのお勉強は想像より難しかったですが、
-ようやく出来るようになってきて、
+&lt;p&gt;日本語でのお勉強は想像より難しかったですが、&lt;br&gt;
+ようやく出来るようになってきて、&lt;br&gt;
 自分にとって大きな自信になりました。&lt;/p&gt;
-&lt;p&gt;朝霞台寮のみんなへ。
-今学期、本当にお世話になりました。
-みんなに出逢い、
-面白いお喋り、
-ワクワクしてるお遊び、
-「楽しい寮の生活」を見せてくれて、
+&lt;p&gt;朝霞台寮のみんなへ。&lt;br&gt;
+今学期、本当にお世話になりました。&lt;br&gt;
+みんなに出逢い、&lt;br&gt;
+面白いお喋り、&lt;br&gt;
+ワクワクしてるお遊び、&lt;br&gt;
+「楽しい寮の生活」を見せてくれて、&lt;br&gt;
 ありがとうございました。&lt;/p&gt;
-&lt;p&gt;日本のキューバーのみんなへ。
-毎回の大会で、
-みんなに話しかけてもらって、
-楽しい飲み会に参加させてもらって、
-「キューブ」というもので共通の趣味で繋がり、
+&lt;p&gt;日本のキューバーのみんなへ。&lt;br&gt;
+毎回の大会で、&lt;br&gt;
+みんなに話しかけてもらって、&lt;br&gt;
+楽しい飲み会に参加させてもらって、&lt;br&gt;
+「キューブ」というもので共通の趣味で繋がり、&lt;br&gt;
 すごく嬉しいです。&lt;/p&gt;
-&lt;p&gt;立教で出逢ったみんなへ。
-授業中でお話かけてくださって、
-ディスカッションに加えてもらって、
-私の流暢ではない日本語を根気よく耳を傾けてくれて、
+&lt;p&gt;立教で出逢ったみんなへ。&lt;br&gt;
+授業中でお話かけてくださって、&lt;br&gt;
+ディスカッションに加えてもらって、&lt;br&gt;
+私の流暢ではない日本語を根気よく耳を傾けてくれて、&lt;br&gt;
 ありがとうございました。&lt;/p&gt;
-&lt;p&gt;To my fellow Singaporeans who visited me during this time,
-Thank you very much for taking the time out of your busy schedules travelling (or not!) to hang out with me.
-It is always lovely to meet someone from home while you&amp;rsquo;re abroad.
-I am extremely grateful for your company, and I will see all of you very soon :)&lt;/p&gt;</description>
+&lt;p&gt;To my fellow Singaporeans who visited me during this time,&lt;br&gt;
+Thank you very much for taking the time out of your busy schedules travelling (or not!) to hang out with me.&lt;br&gt;
+It is always lovely to meet someone from home while you&amp;rsquo;re abroad.&lt;br&gt;
+I am extremely grateful for your company, and I will see all of you very soon :)\&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Back into Programming</title>
-      <link>http://localhost:1313/posts/getting-back-to-programming/</link>
+      <link>https://kangzhe.xyz/posts/getting-back-to-programming/</link>
       <pubDate>Mon, 06 Jul 2026 12:27:52 +0900</pubDate>
-      <guid>http://localhost:1313/posts/getting-back-to-programming/</guid>
+      <guid>https://kangzhe.xyz/posts/getting-back-to-programming/</guid>
       <description>&lt;p&gt;The other day my friend gave me a &amp;ldquo;coding interview&amp;rdquo;, after hearing that I wanted to get back into programming.&lt;/p&gt;
 &lt;p&gt;He gave me two tasks: to add and multiply very large (positive) numbers.&lt;/p&gt;
 &lt;p&gt;Since these numbers are potentially very large, I am not allowed to directly cast them with &lt;code&gt;int()&lt;/code&gt;; instead the inputs and outputs have to be strings.
@@ -61,9 +74,9 @@ I am however allowed to cast one digit at a time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Dummit and Futon</title>
-      <link>http://localhost:1313/posts/dummitfuton-update1/</link>
+      <link>https://kangzhe.xyz/posts/dummitfuton-update1/</link>
       <pubDate>Sun, 01 Mar 2026 05:16:36 +0800</pubDate>
-      <guid>http://localhost:1313/posts/dummitfuton-update1/</guid>
+      <guid>https://kangzhe.xyz/posts/dummitfuton-update1/</guid>
       <description>&lt;p&gt;I have been working on giving my hand at translating Dummit and Foote&amp;rsquo;s &lt;em&gt;Abstract Algebra&lt;/em&gt; (Third Edition) into Japanese, though rather irregularly.
 In particular, I am trying to translate the second part of the book: on rings and modules.&lt;/p&gt;
 &lt;p&gt;I have named this project &lt;em&gt;Project Dummit and Futon&lt;/em&gt;, since &amp;ldquo;Foote&amp;rdquo; and &amp;ldquo;futon&amp;rdquo; sounded pretty close.&lt;/p&gt;
@@ -73,9 +86,9 @@ What my focus was for this project is actually learning how to write mathematics
     </item>
     <item>
       <title>2026シンガポールチャンピオンシップの振り返り</title>
-      <link>http://localhost:1313/posts/sgc26-jp/</link>
+      <link>https://kangzhe.xyz/posts/sgc26-jp/</link>
       <pubDate>Fri, 27 Feb 2026 10:45:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/sgc26-jp/</guid>
+      <guid>https://kangzhe.xyz/posts/sgc26-jp/</guid>
       <description>&lt;p&gt;3年連続シンガポール（キューブ）チャンピオンシップの主催でやってきた。&lt;/p&gt;
 &lt;p&gt;今回&lt;a href=&#34;https://www.worldcubeassociation.org/competitions/SingaporeChampionship2026&#34;&gt;2026年のチャンピオンシップ&lt;/a&gt;も大成功でよかったと思う。&lt;/p&gt;
 &lt;p&gt;3日の大会だったがインターンシップをやっているため1日目のPBQの日に行かなかったが、2日目と3日目に行って主催の身分に就いた。&lt;/p&gt;
@@ -89,9 +102,9 @@ What my focus was for this project is actually learning how to write mathematics
     </item>
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>https://kangzhe.xyz/posts/hello/</link>
       <pubDate>Mon, 15 Sep 2025 02:25:23 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>https://kangzhe.xyz/posts/hello/</guid>
       <description>&lt;p&gt;Hello, this is a test.
 Welcome to my website.&lt;/p&gt;
 &lt;p&gt;This is a revival of &lt;a href=&#34;https://kangzhe.xyz&#34;&gt;kangzhe.xyz&lt;/a&gt;.

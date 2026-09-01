@@ -2,22 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ng Kang Zhe</title>
-    <link>http://localhost:1313/</link>
+    <link>https://kangzhe.xyz/</link>
     <description>Recent content on Ng Kang Zhe</description>
     <image>
       <title>Ng Kang Zhe</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://kangzhe.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kangzhe.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 14:25:56 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2026 21:43:58 +0800</lastBuildDate>
+    <atom:link href="https://kangzhe.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inclusion–Exclusion Principle</title>
+      <link>https://kangzhe.xyz/posts/iep/</link>
+      <pubDate>Tue, 01 Sep 2026 21:43:58 +0800</pubDate>
+      <guid>https://kangzhe.xyz/posts/iep/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This is a repost of a note I wrote two years ago on the inclusion&amp;ndash;exclusion principle when I was taking a class on Probability.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The en-dash (–) in the title was AI-generated, because I searched for &amp;ldquo;en-dash&amp;rdquo; and the first thing that popped out was Google&amp;rsquo;s AI overview. I just copied the symbol from its output.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this article, the conjunction (intersection) of events is written as $E_1 \cap E_2 = E_1 E_2$.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>留学の終わりの振り返り</title>
-      <link>http://localhost:1313/posts/ryuugaku-no-owari/</link>
+      <link>https://kangzhe.xyz/posts/ryuugaku-no-owari/</link>
       <pubDate>Sat, 22 Aug 2026 14:25:56 +0800</pubDate>
-      <guid>http://localhost:1313/posts/ryuugaku-no-owari/</guid>
+      <guid>https://kangzhe.xyz/posts/ryuugaku-no-owari/</guid>
       <description>&lt;p&gt;いよいよ八月になり、&lt;br&gt;
 私の立教大学での留学も終わりました。&lt;/p&gt;
 &lt;p&gt;日本で沢山の方々に支えていただき、&lt;br&gt;
@@ -51,9 +64,9 @@ I am extremely grateful for your company, and I will see all of you very soon :)
     </item>
     <item>
       <title>Getting Back into Programming</title>
-      <link>http://localhost:1313/posts/getting-back-to-programming/</link>
+      <link>https://kangzhe.xyz/posts/getting-back-to-programming/</link>
       <pubDate>Mon, 06 Jul 2026 12:27:52 +0900</pubDate>
-      <guid>http://localhost:1313/posts/getting-back-to-programming/</guid>
+      <guid>https://kangzhe.xyz/posts/getting-back-to-programming/</guid>
       <description>&lt;p&gt;The other day my friend gave me a &amp;ldquo;coding interview&amp;rdquo;, after hearing that I wanted to get back into programming.&lt;/p&gt;
 &lt;p&gt;He gave me two tasks: to add and multiply very large (positive) numbers.&lt;/p&gt;
 &lt;p&gt;Since these numbers are potentially very large, I am not allowed to directly cast them with &lt;code&gt;int()&lt;/code&gt;; instead the inputs and outputs have to be strings.
@@ -61,9 +74,9 @@ I am however allowed to cast one digit at a time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Dummit and Futon</title>
-      <link>http://localhost:1313/posts/dummitfuton-update1/</link>
+      <link>https://kangzhe.xyz/posts/dummitfuton-update1/</link>
       <pubDate>Sun, 01 Mar 2026 05:16:36 +0800</pubDate>
-      <guid>http://localhost:1313/posts/dummitfuton-update1/</guid>
+      <guid>https://kangzhe.xyz/posts/dummitfuton-update1/</guid>
       <description>&lt;p&gt;I have been working on giving my hand at translating Dummit and Foote&amp;rsquo;s &lt;em&gt;Abstract Algebra&lt;/em&gt; (Third Edition) into Japanese, though rather irregularly.
 In particular, I am trying to translate the second part of the book: on rings and modules.&lt;/p&gt;
 &lt;p&gt;I have named this project &lt;em&gt;Project Dummit and Futon&lt;/em&gt;, since &amp;ldquo;Foote&amp;rdquo; and &amp;ldquo;futon&amp;rdquo; sounded pretty close.&lt;/p&gt;
@@ -73,9 +86,9 @@ What my focus was for this project is actually learning how to write mathematics
     </item>
     <item>
       <title>2026シンガポールチャンピオンシップの振り返り</title>
-      <link>http://localhost:1313/posts/sgc26-jp/</link>
+      <link>https://kangzhe.xyz/posts/sgc26-jp/</link>
       <pubDate>Fri, 27 Feb 2026 10:45:54 +0800</pubDate>
-      <guid>http://localhost:1313/posts/sgc26-jp/</guid>
+      <guid>https://kangzhe.xyz/posts/sgc26-jp/</guid>
       <description>&lt;p&gt;3年連続シンガポール（キューブ）チャンピオンシップの主催でやってきた。&lt;/p&gt;
 &lt;p&gt;今回&lt;a href=&#34;https://www.worldcubeassociation.org/competitions/SingaporeChampionship2026&#34;&gt;2026年のチャンピオンシップ&lt;/a&gt;も大成功でよかったと思う。&lt;/p&gt;
 &lt;p&gt;3日の大会だったがインターンシップをやっているため1日目のPBQの日に行かなかったが、2日目と3日目に行って主催の身分に就いた。&lt;/p&gt;
@@ -89,9 +102,9 @@ What my focus was for this project is actually learning how to write mathematics
     </item>
     <item>
       <title>Reads</title>
-      <link>http://localhost:1313/reads/</link>
+      <link>https://kangzhe.xyz/reads/</link>
       <pubDate>Mon, 15 Sep 2025 05:00:55 +0800</pubDate>
-      <guid>http://localhost:1313/reads/</guid>
+      <guid>https://kangzhe.xyz/reads/</guid>
       <description>&lt;p&gt;I suck at reading, but I would love to love it and get better at it.
 It is a skill that I did not develop when I was younger, but I am looking forward to read more to understand the world better.&lt;/p&gt;
 &lt;p&gt;I am currently interested in reading Japanese literature, mainly for language learning purposes.&lt;/p&gt;
@@ -100,9 +113,9 @@ It is a skill that I did not develop when I was younger, but I am looking forwar
     </item>
     <item>
       <title>Friends</title>
-      <link>http://localhost:1313/friends/</link>
+      <link>https://kangzhe.xyz/friends/</link>
       <pubDate>Mon, 15 Sep 2025 04:41:45 +0800</pubDate>
-      <guid>http://localhost:1313/friends/</guid>
+      <guid>https://kangzhe.xyz/friends/</guid>
       <description>&lt;p&gt;Here are some of my cool and smart friends and their websites, in no particular order.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://saddle196883.github.io/personalpage/&#34;&gt;Timothy Wan&lt;/a&gt;&lt;/li&gt;
@@ -114,29 +127,28 @@ It is a skill that I did not develop when I was younger, but I am looking forwar
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://kangzhe.xyz/about/</link>
       <pubDate>Mon, 15 Sep 2025 04:27:04 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://kangzhe.xyz/about/</guid>
       <description>&lt;p&gt;Hello, my name is Kang Zhe.
 Welcome to my website.&lt;/p&gt;
 &lt;p&gt;I am a final year undergraduate student in the National University of Singapore studying pure mathematics.
-I am interested in logic.
-I have completed the math-related requirements for my degree, and will no longer be taking mathematics classes formally in NUS.&lt;/p&gt;
-&lt;h1 id=&#34;classes-i-intend-to-take-this-semester&#34;&gt;Classes I Intend to Take this Semester&lt;/h1&gt;
+I am interested in logic.&lt;/p&gt;
+&lt;h1 id=&#34;classes-i-am-taking-this-semester&#34;&gt;Classes I am Taking this Semester&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;CS2030 Programming Methodology II&lt;/li&gt;
 &lt;li&gt;CS2040 Data Structures and Algorithms&lt;/li&gt;
-&lt;li&gt;LAJ3204 Business Japanese 2&lt;/li&gt;
+&lt;li&gt;MA3210 Analysis 2&lt;/li&gt;
 &lt;li&gt;NHS2085 Fear and the Supernatural Landscape&lt;/li&gt;
 &lt;li&gt;NST2030 Quantum Computation&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;I might also audit these classes:&lt;/p&gt;</description>
+&lt;p&gt;I just returned from a semester-long exchange at &lt;a href=&#34;https://www.rikkyo.ac.jp/&#34;&gt;Rikkyo University&lt;/a&gt;, where I am taking an assortment of Japanese lingusitics classes and &lt;a href=&#34;https://sy.rikkyo.ac.jp/web/preview.php?nendo=2026&amp;amp;t_mode=sp&amp;amp;template=&amp;amp;no_id=2605268&amp;amp;gakubu_id=4&#34;&gt;Introduction to Number Theory&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>https://kangzhe.xyz/posts/hello/</link>
       <pubDate>Mon, 15 Sep 2025 02:25:23 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>https://kangzhe.xyz/posts/hello/</guid>
       <description>&lt;p&gt;Hello, this is a test.
 Welcome to my website.&lt;/p&gt;
 &lt;p&gt;This is a revival of &lt;a href=&#34;https://kangzhe.xyz&#34;&gt;kangzhe.xyz&lt;/a&gt;.
